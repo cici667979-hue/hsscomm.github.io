@@ -1,0 +1,5 @@
+{
+  "name": "AI 图标生成器",
+  "description": "基于 Google Imagen 模型的专业 AI 图标生成工具，支持 3D 粘土、扁平化及 Iconfont 风格，提供 PNG 批量导出及自动转 SVG 矢量图功能。",
+  "requestFramePermissions": []
+}
